@@ -1,0 +1,1 @@
+# alienworlds-mining-bot-v1.0
